@@ -1,9 +1,7 @@
 # AI-rookie
 
-
-    Since I started learning machine learning (especially deep learning), I have collected a lot of online courses and their after-school exercises, pdfs for classic books, practical code for some practical projects, and so on.
-    They gave me a lot of help on my self-study road. I hope to share with you, we will urge each other and make progress.
-    Since many learning materials are collected at different times, some materials do not indicate the source. 
-    If I offend your rights, please let me know.
-
+自从开始学习深度学习，我收集了很多在线课程、经典书籍的PDF、实战项目代码等，也实际参与了很多工业项目，积累了一定的经验。
+这些在学习路上给了我很多帮助。希望与大家分享，一起进步。
+由于许多学习材料是在不同的时间收集的，有些材料没有指明来源。
+如果我侵犯了你的权利，请告诉我。
 
